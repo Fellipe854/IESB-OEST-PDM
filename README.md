@@ -54,6 +54,7 @@ Este repositório está organizado da seguinte forma:
 | 04 | Estado (`useState`) e imutabilidade | Adicionar e deletar tarefas |
 | 05 | FlatList e AsyncStorage | Lista eficiente + persistência |
 | 06 | Componentização e props | Extrair `TaskCard` |
+<<<<<<< HEAD
 
 ## 🚀 Fluxo de Trabalho Acadêmico
 
@@ -88,6 +89,8 @@ Este repositório está organizado da seguinte forma:
 | 03 | Componentes core, StyleSheet e Flexbox | Interface estática do To-Do |
 | 04 | Estado (`useState`) e imutabilidade | Adicionar e deletar tarefas |
 | 05 | FlatList, AsyncStorage e componentes | Lista persistente + `TaskCard` |
+=======
+>>>>>>> e943a24 (Atualizando as aulas)
 
 ## 🚀 Fluxo de Trabalho Acadêmico
 
