@@ -1,0 +1,21 @@
+{
+  "name": "iesb-pdm-oeste",
+  "version": "1.0.0",
+  "description": "Repositório base destinado às aulas teóricas e às atividades práticas da disciplina. Ao longo do semestre, utilizaremos este ambiente para construir, passo a passo, um **Aplicativo de Lista de Tarefas (To-Do List)** — começando pelos conceitos fundamentais do React Native e do Expo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelofarias2010/IESB-PDM-OESTE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marcelofarias2010/IESB-PDM-OESTE/issues"
+  },
+  "homepage": "https://github.com/marcelofarias2010/IESB-PDM-OESTE#readme"
+}
