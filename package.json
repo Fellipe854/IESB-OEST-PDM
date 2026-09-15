@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/marcelofarias2010/IESB-PDM-OESTE/issues"
   },
-  "homepage": "https://github.com/marcelofarias2010/IESB-PDM-OESTE#readme"
+  "homepage": "https://github.com/marcelofarias2010/IESB-PDM-OESTE#readme",
+  "dependencies": {
+    "expo": "^57.0.22"
+  }
 }
